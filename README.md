@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+<html>
 
-You can use the [editor on GitHub](https://github.com/AlvaroCigaranMakishi/GPI/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<head>
+	<title>My page</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
 
-### Markdown
+<img src=https://www.love4musicals.com/wp-content/uploads/2017/11/kabuki.jpg><br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+hello world<br>
+this is <strong>bold</strong><br>
+<strong>Hi my name is alvaro</strong><br>
+<em>Hi this is alvaro</em><br>
 
-```markdown
-Syntax highlighted code block
+<a href="http://google.com">google.com</a><br>
+<ul>
+	<li>Item 1 </li>
+	<li>Item 2</li>	
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<ol>
+	<li>Coockie</li>
+	<li>Coockie</li>
 
-- Bulleted
-- List
+</body>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlvaroCigaranMakishi/GPI/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</html>
